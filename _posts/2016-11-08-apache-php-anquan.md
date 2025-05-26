@@ -1,9 +1,15 @@
 ---
-layout: post
+layout: mypost
 title:  "Windows下配置安全的WebServer"
 date:   2016-11-08 08:07:18 +0800
 categories: 互联网
+tags: apache php
+author: lhlloveqq
+excerpt: apache+php的一种降低用户权限的做法同时也方便设置读写操作，目录关闭或开启写权限操作
 ---
+
+* content
+{:toc}
 
 - 为了快速安装，我们选Server目录作为说明，约定安装目录： D:/Server
 

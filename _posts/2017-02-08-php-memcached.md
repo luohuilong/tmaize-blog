@@ -1,9 +1,15 @@
 ---
-layout: post
+layout: mypost
 title:  "WordPress启用memcached缓存"
 date:   2017-02-08 08:07:18 +0800
 categories: 互联网
+tags: wordpress
+author: lhlloveqq
+excerpt: memcached是memcache后续版本，能用d的就优先用，这是一个分布式缓存方法，可大量减少对数据库的操作，是个好工具。
 ---
+
+* content
+{:toc}
 
 目前用的是Nginx的fastcgi缓存方案，属于纯净态缓存模式，所以前台登录态什么的基本都没了。如果要兼顾前台登录态，又想速度快，有没有解决方案？
 

@@ -1,9 +1,15 @@
 ---
-layout: post
+layout: mypost
 title:  "推荐WordPress简洁主题和实用插件"
 date:   2017-05-12 09:07:18 +0800
 categories: 互联网
+tags: wordpress
+author: lhlloveqq
+excerpt: 此资料希望给WordPress新手使用者一些帮助，2款简洁的主题和8个实用的插件
 ---
+
+* content
+{:toc}
 
 ### WordPress 下载 ###
 
