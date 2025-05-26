@@ -3,14 +3,7 @@ layout: post
 title:  "cloudflare worker 搭建 vless节点"
 date:   2024-11-27 09:07:18 +0800
 categories: 互联网
-tags: cloudflare
-author: lhlloveqq
-excerpt: Cloudflare Workers 是一种无服务器平台，允许您在 Cloudflare 的边缘网络上运行 JavaScript 代码。通过使用 Cloudflare Workers，您可以轻松地将 VLESS 配置信息转换为订阅内容，并将其用于 Clash 或 Singbox 等工具。
 ---
-
-* content
-{:toc}
-
 
 **github文件地址：**[https://github.com/zizifn/edgetunnel/blob/main/src/worker-vless.js][1]
 

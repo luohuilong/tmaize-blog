@@ -3,13 +3,7 @@ layout: post
 title:  "让phpstudy支持https"
 date:   2017-04-08 08:07:18 +0800
 categories: 互联网
-tags: phpstudy
-author: lhlloveqq
-excerpt: phpstudy设置启用https的方法
 ---
-
-* content
-{:toc}
 
 首先在阿里云证书服务栏申请证书，这里有免费一年的。
 

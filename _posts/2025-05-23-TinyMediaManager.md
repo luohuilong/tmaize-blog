@@ -3,13 +3,7 @@ layout: post
 title:  "媒体库刮削器TinyMediaManager配置指南"
 date:   2025-05-23 09:50:18 +0800
 categories: 互联网
-tags: TinyMediaManager
-author: lhlloveqq
-excerpt: 常用的NAS媒体库软件有Jellyfin、Emby、Plex、Kodi等等，但它们的内置刮削器有时候并不太好用，我这边推荐使用TinyMediaManager作为刮削器、媒体文件管理平台使用，而Jellyfin等媒体库软件仅作为媒体读取、播放、展示的平台。
 ---
-
-* content
-{:toc}
 
 一些不重要的设置，本文不做展示和介绍，操作时直接下一步or跳过or默认配置即可
 
