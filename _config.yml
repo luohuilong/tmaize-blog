@@ -4,7 +4,7 @@ plugins:
   - jekyll-regex-replace
 
 # SEO相关信息
-title: Smile-Logan Blog
+title: Smile-Logan's Blog
 description: Logan的个人博客
 author: Logan
 
