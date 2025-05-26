@@ -34,7 +34,7 @@ menu:
     url: /
   - title: 归类
     url: /pages/categories.html
-  - title: 搜索
+  # - title: 搜索
     url: /pages/search.html
   # - title: 友链
     url: /pages/links.html
