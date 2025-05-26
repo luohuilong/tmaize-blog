@@ -6,9 +6,7 @@ plugins:
 # SEO相关信息
 title: Smile-Logan Blog
 description: Logan的个人博客
-keywords: 
 author: Logan
-footerText: # 'Copyright © 2016 皖ICP备xxxxxxx号'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -29,18 +27,7 @@ baseurl: ''
 menu:
   - title: 首页
     url: /
+  - title: 归档
+    url: /pages/categories.html
   - title: 关于
     url: /pages/about.html
-
-# 点击页面文字冒出特效,不需要请设置为false
-extClickEffect: false
-
-# Google Adsense,不需要请设置为false
-# _includes/ext-adsense.html 里面修改为自己的配置
-extAdsense: false
-
-# 数学公式支持，比较影响加载速度,不需要请设置为false
-extMath: false
-
-# 显示访问量统计，由不蒜子提供服务
-extCount: false
