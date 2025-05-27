@@ -7,7 +7,7 @@ plugins:
 title: Smile-Logan's Blog
 description: Logan的个人博客
 author: Logan
-
+footerText: 一人道虚，千人传实
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
 kramdown:
