@@ -28,12 +28,4 @@
   {%- endif %} {%- if page.layout == "page" %}
   <link rel="stylesheet" href="{{site.baseurl}}/static/css/page.css?t={{buildAt}}" />
   {%- endif %}
-  <script>
-    window.blog = {
-      baseurl: '{{site.baseurl}}',
-      buildAt: '{{buildAt}}',
-      darkMode: true,
-    }
-    blog.initDarkMode(localStorage.darkMode)
-  </script>
 </head>
